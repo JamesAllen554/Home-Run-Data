@@ -1,0 +1,24 @@
+---
+title: "About the MLB Statcast Ballpark Explorer"
+subtitle: "Data sources, Bayesian data science context, and methodology"
+format:
+  html:
+    page-layout: full
+---
+
+::: {.glass-card}
+## About the Author
+
+**James Allen** — Data Science student at [New College of Florida](https://www.ncf.edu/). This project was built using **R**, **Quarto**, and the **tidyverse** to explore how physical ballpark dimensions, wall heights, and environmental factors shape home run rates across Major League Baseball.
+
+- **Email:** [j.allen30@ncf.edu](mailto:j.allen30@ncf.edu)
+- **GitHub:** [github.com/jamesallen554](https://github.com/jamesallen554)
+- **Project Repository:** [github.com/jamesallen554/mlb-ballparks](https://github.com/jamesallen554/mlb-ballparks)
+- **School:** [New College of Florida](https://www.ncf.edu/)
+:::
+
+::: {.glass-card}
+## Data Sources
+
+All ballpark and batted-ball data come from **[MLB Baseball Savant](https://baseballsavant.mlb.com/)**. Stadium dimensions, fence heights, and annual park factor indices (2018–2026, where **100** represents the MLB average baseline—values above 100 favor hitters and values below 100 favor pitchers) are sourced from the [Statcast Park Factors Leaderboard](https://baseballsavant.mlb.com/leaderboard/statcast-park-factors). Individual home run metrics—including exit velocity, launch angle, hit distance, pitch speed, and batter handedness splits—are collected from [Baseball Savant Statcast Search](https://baseballsavant.mlb.com/statcast_search).
+:::

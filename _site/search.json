@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the MLB Statcast Ballpark Explorer",
+    "section": "",
+    "text": "James Allen — Data Science student at New College of Florida. This project was built using R, Quarto, and the tidyverse to explore how physical ballpark dimensions, wall heights, and environmental factors shape home run rates across Major League Baseball.\n\nEmail: j.allen30@ncf.edu\nGitHub: github.com/jamesallen554\nProject Repository: github.com/jamesallen554/mlb-ballparks\nSchool: New College of Florida"
+  },
+  {
+    "objectID": "about.html#about-the-author",
+    "href": "about.html#about-the-author",
+    "title": "About the MLB Statcast Ballpark Explorer",
+    "section": "",
+    "text": "James Allen — Data Science student at New College of Florida. This project was built using R, Quarto, and the tidyverse to explore how physical ballpark dimensions, wall heights, and environmental factors shape home run rates across Major League Baseball.\n\nEmail: j.allen30@ncf.edu\nGitHub: github.com/jamesallen554\nProject Repository: github.com/jamesallen554/mlb-ballparks\nSchool: New College of Florida"
+  },
+  {
+    "objectID": "about.html#data-sources",
+    "href": "about.html#data-sources",
+    "title": "About the MLB Statcast Ballpark Explorer",
+    "section": "Data Sources",
+    "text": "Data Sources\nAll ballpark and batted-ball data come from MLB Baseball Savant. Stadium dimensions, fence heights, and annual park factor indices (2018–2026, where 100 represents the MLB average baseline—values above 100 favor hitters and values below 100 favor pitchers) are sourced from the Statcast Park Factors Leaderboard. Individual home run metrics—including exit velocity, launch angle, hit distance, pitch speed, and batter handedness splits—are collected from Baseball Savant Statcast Search."
+  }
+]
